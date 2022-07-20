@@ -11,35 +11,18 @@ A little while ago I found FiveM. It's like a game engine on top of GTA 5. And t
 So I've been working on jsRP, a js toolkit to help develop resources in an organized and fast way.
 
 # 👨‍💻 SKILLS 
-## 💻 FRONTEND
- - Javascript
- - Typescript
- - Svelte
- - SvelteKit
- - TailwindCSS
- - Vue.js
- - Nuxt
- - Bulma
- - Sass
- 
-## ⚙ BACKEND
- - PHP
- - NodeJS
- - Vercel
- - Nginx
- - Linux
- - Express
- - Strapi
- - Socket.io
- - PeerJS - WRTC
- 
- ## 🕹 GAMEDEV
-  - Javascript (canvas/webgl)
-  - FiveM
-  - GDevelop
-  - Unreal
-  - PixiJS
-  - LUA
+
+| FRONTEND 💻 | BACKEND ⚙   | GAMEDEV 🕹 |
+|------------|---------------|------------|
+| Javascript | PHP           | Javascript |
+| Typescript | NodeJS        | FiveM      |
+| Svelte     | Vercel        | GDevelop   |
+| SvelteKit  | Nginx         | Unreal     |
+| TailwindCSS| Linux         | PixiJS     |
+| Vue.js     | Express       | LUA        |
+| Nuxt       | Strapi        |
+| Bulma      | Socket.io     |
+| Sass       | PeerJS - WRTC |
   
  # 🗂 Projects
  
