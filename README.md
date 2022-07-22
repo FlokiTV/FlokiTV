@@ -40,7 +40,9 @@ So I've been working on jsRP, a js toolkit to help develop resources in an organ
  
  ### GAME ON by Ruby Rose
     This game has been developed as marketing to launch a new make-up with a "gamer" theme.
-    The game is inspired by old PacMan. I tried to remake all behaviors from the original ghosts and develop a touch joystick to control the main character.
+    The game is inspired by old PacMan. 
+    I tried to remake all behaviors from the original ghosts 
+    and develop a touch joystick to control the main character.
     The development was in a team, where I was responsible for all programming
     Made with GDevelop and Javascript
 
