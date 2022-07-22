@@ -14,16 +14,18 @@ So I've been working on jsRP, a js toolkit to help develop resources in an organ
 
 | FRONTEND 💻 | BACKEND ⚙   | GAMEDEV 🕹 |
 |------------|---------------|------------|
-| Javascript | PHP           | Javascript |
-| Typescript | NodeJS        | FiveM      |
-| Svelte     | Vercel        | GDevelop   |
-| SvelteKit  | Nginx         | Unreal     |
-| TailwindCSS| Linux         | PixiJS     |
+| Javascript | PHP           | ⭐Javascript |
+| ⭐Typescript | ⭐NodeJS        | ⭐FiveM      |
+| Svelte     | ⭐Vercel        | GDevelop   |
+| ⭐SvelteKit  | Nginx         | Unreal     |
+| ⭐TailwindCSS| Linux         | PixiJS     |
 | Vue.js     | Express       | LUA        |
-| Nuxt       | Strapi        |
-| Bulma      | Socket.io     |
+| Nuxt       | ⭐Strapi        |
+| Bulma      | ⭐Socket.io     |
 | Sass       | PeerJS - WRTC |
-  
+###### ⭐currently in use
+
+
  # 🗂 Projects
  Here I will list some projects that I participated. Some commercials and some not.
  ### jsRP 
