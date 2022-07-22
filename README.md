@@ -25,7 +25,16 @@ So I've been working on jsRP, a js toolkit to help develop resources in an organ
 | Sass       | PeerJS - WRTC |
   
  # 🗂 Projects
+ Here I will list some projects that I participated. Some commercials and some not.
+ ### Magalu Multiplayer Experience
+ Online co-op game, based on 360° equirectangular image with escape room elements. As dev solo, I built the server and client with room system to able multiple game sessions. I wrote from scratch with javascript
+ ##### whant play? contact me to play the demo version
+ ### GAME ON by Ruby Rose
+ Download: [ios](https://apps.apple.com/gt/app/game-on-by-ruby-rose/id1583127165?l=en) - 
+ [android](https://play.google.com/store/apps/details?id=ornilo.games.rubyrosegameon&hl=pt_BR&gl=US)
  
+ ## GDevelop Extensions and proof of concepts
+ ## jsRP 
  # ☕ Work Experience
  - Freelance - Full Stack developer (2018/now)
  - Rodrigo Catuaba Tattoo - Marketing/Ecommerce manager (2017/2018)
