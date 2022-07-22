@@ -27,7 +27,8 @@ So I've been working on jsRP, a js toolkit to help develop resources in an organ
  # 🗂 Projects
  Here I will list some projects that I participated. Some commercials and some not.
  ### jsRP 
-    The jsRP is a toolkit developed in raw Javascript to be a framework with a default pattern to help develop resources in an organized way.
+    The jsRP is a toolkit developed in raw Javascript to be a framework 
+    with a default pattern to help develop resources in an organized way.
 
     - Work in Progress
 
