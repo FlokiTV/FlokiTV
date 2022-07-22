@@ -14,7 +14,7 @@ So I've been working on jsRP, a js toolkit to help develop resources in an organ
 
 | FRONTEND 💻 | BACKEND ⚙   | GAMEDEV 🕹 |
 |------------|---------------|------------|
-| Javascript | PHP           | ⭐Javascript |
+| ⭐Javascript | PHP           | ⭐Javascript |
 | ⭐Typescript | ⭐NodeJS        | ⭐FiveM      |
 | Svelte     | ⭐Vercel        | GDevelop   |
 | ⭐SvelteKit  | Nginx         | Unreal     |
