@@ -34,7 +34,8 @@ So I've been working on jsRP, a js toolkit to help develop resources in an organ
 
  ### Magalu Multiplayer Experience
     Online co-op game, based on 360° equirectangular image with escape room elements. 
-    As dev solo, I built the server and client with room system to able multiple game sessions. I wrote from scratch with javascript
+    As dev solo, I built the server and client with room system to able multiple game sessions. 
+    I wrote from scratch with javascript
     want play? contact me to play the demo version
  
  ### GAME ON by Ruby Rose
