@@ -33,7 +33,7 @@ So I've been working on jsRP, a js toolkit to help develop resources in an organ
     with a default pattern to help develop resources in an organized way.
 
     - Work in Progress
-
+   [GitHub](https://github.com/FlokiTV/jsRP)
  ### Magalu Multiplayer Experience
     Online co-op game, based on 360° equirectangular image with escape room elements. 
     As dev solo, I built the server and client with room system to able multiple game sessions. 
@@ -64,6 +64,11 @@ So I've been working on jsRP, a js toolkit to help develop resources in an organ
  [GitHub](https://github.com/FlokiTV/GDevelop-Plane-Projection) -
  [Youtube](https://www.youtube.com/watch?v=bOw7IpG33VE)
 
+ #### GDevelop Voxel Sprite Stack
+ 2D rendering tecnic built over PixiJS and support for GDevelop Engine
+ This tool is focused in Magica Voxel Slice Exporter (Vertical sheet)
+
+ [GitHub](https://github.com/FlokiTV/GDevelop-Voxel-Sprite-Stack)
  # ☕ Work Experience
  - Freelance - Full Stack developer (2018/now)
  - Rodrigo Catuaba Tattoo - Marketing/Ecommerce manager (2017/2018)
