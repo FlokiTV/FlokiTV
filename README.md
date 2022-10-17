@@ -16,7 +16,7 @@ So I've been working on jsRP, a js toolkit to help develop resources in an organ
 |------------|---------------|------------|
 | ⭐Javascript | PHP           | ⭐Javascript |
 | ⭐Typescript | ⭐NodeJS        | ⭐FiveM      |
-| Svelte     | ⭐Vercel        | GDevelop   |
+| Svelte     | ⭐Vercel        | ⭐ GDevelop   |
 | ⭐SvelteKit  | Nginx         | Unreal     |
 | ⭐TailwindCSS| Linux         | PixiJS     |
 | Vue.js     | Express       | LUA        |
