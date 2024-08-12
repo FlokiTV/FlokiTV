@@ -7,23 +7,7 @@ Full stack developer with 7+ years building websites and solutions for the inter
 In the last few years, I'm focused on game development. I found GDevelop, a low-code game engine, that supports javascript.
 I worked a long time with GDevelop, building games, extensions, and experiments. Everything can be found as open source on my GitHub.
 
-# 👨‍💻 SKILLS 
-
-| FRONTEND 💻 | BACKEND ⚙   | GAMEDEV 🕹 |
-|------------|---------------|------------|
-| ⭐Javascript | PHP           | ⭐Javascript |
-| ⭐Typescript | ⭐NodeJS        | ⭐FiveM      |
-| Svelte     | ⭐Vercel        | ⭐ GDevelop   |
-| ⭐SvelteKit  | Nginx         | Unreal     |
-| ⭐TailwindCSS| Linux         | PixiJS     |
-| Vue.js     | Express       | LUA        |
-| Nuxt       | ⭐Strapi        |
-| Bulma      | ⭐Socket.io     |
-| Sass       | PeerJS - WRTC |
-###### ⭐currently in use
-
-
- # 🗂 Projects
+# 🗂 Projects
  Here I will list some projects that I participated. Some commercials and some not.
  
  ### Magalu Multiplayer Experience
@@ -60,9 +44,3 @@ I worked a long time with GDevelop, building games, extensions, and experiments.
  2D rendering tecnic built over PixiJS and support for GDevelop Engine
  
  This tool is focused in Magica Voxel Slice Exporter (Vertical sheet)
-
- [GitHub](https://github.com/FlokiTV/GDevelop-Voxel-Sprite-Stack)
- # ☕ Work Experience
- - Freelance - Full Stack developer (2018/now)
- - Rodrigo Catuaba Tattoo - Marketing/Ecommerce manager (2017/2018)
- - Friweb Agência - Web developer (2015/2016)
