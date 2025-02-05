@@ -4,9 +4,6 @@ My name is Wüster, but everyone calls me Floki. I am 27 years old and since the
 
 Full stack developer with 10+ years building websites and solutions for the internet. Throughout my career, I've built websites, e-commerce sites, HTML5 Games with javascript and Android applications. Large experience with Linux servers and hosting applications.
 
-In the last few years, I'm focused on game development. I found GDevelop, a low-code game engine, that supports javascript.
-I worked a long time with GDevelop, building games, extensions, and experiments. Everything can be found as open source on my GitHub.
-
 # 🗂 Projects
  Here I will list some projects that I participated. Some commercials and some not.
  
