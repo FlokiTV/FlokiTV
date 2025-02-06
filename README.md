@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Floki 
 
-My name is Wüster, but everyone calls me Floki. I am 27 years old and since the age of 15 I have been venturing into the programming world. I grew up on the web and learned a lot from it.
+My name is Wüster, but everyone calls me Floki. I am 30 years old and since the age of 15 I have been venturing into the programming world. I grew up on the web and learned a lot from it.
 
 Full stack developer with 10+ years building websites and solutions for the internet. Throughout my career, I've built websites, e-commerce sites, HTML5 Games with javascript and Android applications. Large experience with Linux servers and hosting applications.
 
