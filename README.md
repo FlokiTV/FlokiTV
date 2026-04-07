@@ -1,8 +1,25 @@
 # 👋 Hi! I'm Floki 
 
-My name is Wüster, but everyone calls me Floki. I am 30 years old and since the age of 15 I have been venturing into the programming world. I grew up on the web and learned a lot from it.
+My name is Wüster, but everyone calls me Floki. I have been building for the web since I was 15, and most of my technical background was shaped by hands-on work across products, experiments, and real-world delivery.
 
-Full stack developer with 10+ years building websites and solutions for the internet. Throughout my career, I've built websites, e-commerce sites, HTML5 Games with javascript and Android applications. Large experience with Linux servers and hosting applications.
+I'm a Software Engineer with 10+ years of experience building web products, digital platforms, and scalable applications, with strong expertise in JavaScript and TypeScript.
+
+Throughout my career, I have worked across full stack development, interactive 3D web experiences, mobile applications, Linux infrastructure, and product-oriented technical leadership. I also worked as a CTO, leading technology and product decisions for digital platforms.
+
+Currently, I work as a freelancer and AI researcher, focused on AI agents, agent orchestration, image generation, and applying these technologies to modern products and scalable web platforms.
+
+## Core Expertise
+
+- Applied Artificial Intelligence
+- AI Agents and Agent Orchestration
+- Image Generation with AI
+- JavaScript and TypeScript
+- React and Vue.js
+- WebGL and Three.js
+- Technical Leadership and Product Strategy
+- Web Application Architecture
+- Android and iOS Development
+- Linux Infrastructure
 
 # 🗂 Projects
  Here I will list some projects that I participated. Some commercials and some not.
